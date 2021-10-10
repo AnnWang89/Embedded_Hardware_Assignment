@@ -33,4 +33,4 @@
     
 * 波形模擬
 
-    ![Uploading file..._5t91qbe0k]()
+    ![](https://i.imgur.com/Gso0lEo.png)
